@@ -5,4 +5,20 @@
 
 body{
     background: #000;
+    color: #fefefe;
 }
+
+#particles-js{
+    position: relative;
+}
+
+.profile-box{
+    position: absolute;
+}
+
+.card{
+    background: #202020;
+    max-width: 25vw;
+}
+
+
