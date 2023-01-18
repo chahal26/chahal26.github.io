@@ -6,6 +6,8 @@
 body{
     background: #000;
     color: #fefefe;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 
 #particles-js{
@@ -16,9 +18,23 @@ body{
     position: absolute;
 }
 
+.profile-box .profile-img {
+    margin: 30px;
+  }
+
+.profile-box h3{
+    color: #911da2;
+}
+
 .card{
     background: #202020;
     max-width: 25vw;
 }
 
+.rounded-circle{
+    border:1px solid;
+    border-radius:50%;
+    width:150px;
+    height:150px;
+}
 
