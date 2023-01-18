@@ -5,4 +5,40 @@
 
 body{
     background: #000;
+    color: #fefefe;
+    text-align: center;
 }
+
+#particles-js{
+    position: relative;
+}
+
+.profile-box{
+    position: absolute;
+}
+
+.profile-box .profile-img {
+    margin: 30px;
+  }
+
+.profile-box h3{
+    color: #7bbbac;
+    font-family: cursive;
+}
+
+.profile-box p{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.card{
+    background: #202020;
+    max-width: 25vw;
+}
+
+.rounded-circle{
+    border:1px solid;
+    border-radius:50%;
+    width:150px;
+    height:150px;
+}
+
