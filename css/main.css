@@ -7,7 +7,6 @@ body{
     background: #000;
     color: #fefefe;
     text-align: center;
-    font-family: "Lucida Console", "Courier New", monospace;
 }
 
 #particles-js{
@@ -23,7 +22,12 @@ body{
   }
 
 .profile-box h3{
-    color: #911da2;
+    color: #7bbbac;
+    font-family: cursive;
+}
+
+.profile-box p{
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .card{
